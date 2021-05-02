@@ -21,7 +21,7 @@ Outcomes Based on Launch Date:
 
 ### Analysis of Outcomes Based on Goals
 
-Analysis of outcomes based on goals compares 1047 crowdfunding campaigns for plays to identify trends in goals set in successful campaigns. The number of successful, failed, and cancelled campaigns was broken down into different ranges of goals to identify which was most successful. 
+Analysis of outcomes based on goals compares 1047 crowdfunding campaigns for plays to identify trends in goals set in successful campaigns. The number of successful, failed, and canceled campaigns was broken down into different ranges of goals to identify which was most successful. 
 
 Outcomes Based on Goals: 
 ![Alt Text](https://github.com/lyanneagger/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
