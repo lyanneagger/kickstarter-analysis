@@ -19,7 +19,7 @@ Analysis of fundraising campaigns based on launch date examines 1369 theater cro
 
 Analysis of outcomes based on goals compares 1047 crowdfunding campaigns for plays to identify trends in goals set in successful campaigns. The number of successful, failed, and cancelled campaigns was broken down into different ranges of goals to identify which was most successful. 
 
-![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
+Format: ![Alt Text](https://github.com/lyanneagger/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
