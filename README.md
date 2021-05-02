@@ -16,7 +16,6 @@ This analysis will identify trends among previous fundraising campaigns to deter
 Analysis of fundraising campaigns based on launch date examines 1369 theater crowdfunding campaigns. Campaigns were categorized by successful, failed, or canceled and organized by their month of launch to identify trends in launch date and outcome. 
 
 Outcomes Based on Launch Date:
-
 ![Alt Text](https://github.com/lyanneagger/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -27,7 +26,7 @@ Outcomes Based on Goals: ![Alt Text](https://github.com/lyanneagger/kickstarter-
 
 ### Challenges and Difficulties Encountered
 
-
+The raw data presented several challenges. Firstly, the data set included crowdfunding campaigns for many different and unrelated categories so they needed to be split into categories and subcategories to remove irrelevant data. Additionally, the initial launch and deadline were in Unix timestamps and needed to be reformatted.
 
 ## Results
 
